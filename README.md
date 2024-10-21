@@ -7,3 +7,5 @@ My name is **Hee Seng Kye**, and I am an Associate Professor in Musicology.
 This is my first GitHub repository.
 
 <img src="hello-world.png">
+
+Making changes to the README file.
